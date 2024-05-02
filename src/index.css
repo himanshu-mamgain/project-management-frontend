@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #eee;
+    background-image: url('https://png.pngtree.com/png-clipart/20231004/original/pngtree-abstract-wavy-pattern-thin-lines-forming-curve-waves-striped-graphic-template-png-image_12954854.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken;
+    min-height: 100vh;
+}
+

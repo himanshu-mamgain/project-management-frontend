@@ -1,0 +1,33 @@
+.header {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #eee;
+  padding: 15px 25px;
+  color: #fff;
+  background-color: #000;
+}
+
+.link-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.link-container li,
+.logo {
+  font-size: 1.2rem;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.link-container li a {
+  text-decoration: none;
+  color: #fff;
+}

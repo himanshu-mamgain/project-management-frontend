@@ -1,0 +1,29 @@
+.card-container {
+  border: 2px solid #eee;
+  background-color: #eee;
+  color: #000;
+  border-radius: 5px;
+  padding: 15px 20px;
+  text-align: center;
+  width: 30%;
+  box-shadow: 0 1px 2px 2px #fff;
+  cursor: pointer;
+}
+
+#title {
+  font-size: 1.3rem;
+  margin-bottom: 8px;
+  text-align: center;
+}
+
+#github-link,
+#deployed-link {
+  display: block;
+  font-size: 1.2rem;
+  margin: 4px;
+}
+
+#username {
+  margin: 10px;
+  font-size: 1.1rem;
+}

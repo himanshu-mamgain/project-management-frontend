@@ -1,0 +1,28 @@
+.projects-container {
+    padding: 30px 25px;
+    margin: 50px;
+    background-color: #000;
+    border-radius: 20px;
+    color: #fff;
+}
+
+.projects-container h1 {
+    text-align: center;
+    margin: 20px;
+    font-size: 2.5rem;
+}
+
+.projects {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    padding: 15px 20px;
+}
+
+.loader {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
